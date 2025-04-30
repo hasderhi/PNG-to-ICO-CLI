@@ -14,4 +14,5 @@ to convert entire folders of .PNG files.
 1. Download the Repository
 2. Install the ```requirements.txt```
 3. Run the script
-4. Enter the absolute path of the di
+4. Enter the absolute path of the directory where the files are located
+5. After the script finishes, your .jpg files are in the same directory as the .HEIC files were
